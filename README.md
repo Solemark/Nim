@@ -1,4 +1,4 @@
-#NIM PRACTICE
+# NIM PRACTICE
 
 run nim code with:
         
